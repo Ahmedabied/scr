@@ -1,2 +1,2 @@
-# scr
-screenshot byload
+# scr.py
+# python screenshot byload 
